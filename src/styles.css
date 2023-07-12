@@ -1,0 +1,3 @@
+.btn-link {
+  @apply mt-4 text-yellow-200 rounded-lg border-2 rounded-md border-yellow-200;
+}
